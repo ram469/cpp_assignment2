@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546972294 source:/home/ram/assignments/assignment_2/Variables/main.cpp
+	<iostream>
+	<stdio.h>
+
